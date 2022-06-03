@@ -3,7 +3,7 @@
 IPL data set is taken from kaggle. It displayed result contains the win count on the Dashboard number of times a team has won from 2008 to 2020. It includes date wise details on teams played, location, win, Player of the match etc.
 This repository contains analysis done on two datasets ipl_matching and ipl_deliveries for all IPL Seasons.  All datasets can be found in the  folder.
 
-## Dashboard Screenshots
+## Visualization Graphs
 
 ![Screenshot from 2022-04-11 15-44-07](https://user-images.githubusercontent.com/76810003/162720081-56006031-967f-4cb3-9590-8d09267142ae.png)
 ![Screenshot from 2022-04-11 15-44-35](https://user-images.githubusercontent.com/76810003/162720089-c930a9b5-3208-4e48-93e7-257679517e4b.png)
